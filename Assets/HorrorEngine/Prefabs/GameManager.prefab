@@ -45,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlayerName: Cassidy
-  Player: {fileID: 1733764417277949781, guid: 4ea0d3db20bb8244587f2934695b2048, type: 3}
+  Player: {fileID: 7636135350536251918, guid: bfb85c169aba33f498c2c4c6d231a38a, type: 3}
   Inventory:
     Items:
     - Item: {fileID: 0}
