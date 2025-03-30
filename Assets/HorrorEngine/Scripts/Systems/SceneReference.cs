@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 namespace HorrorEngine
 {
-    [CreateAssetMenu(fileName = "Scene Reference", menuName = "Horror Engine/Scene Reference")]
+    [CreateAssetMenu(fileName = "Main_Hub", menuName = "Main_Hub")]
     public class SceneReference : ScriptableObject
     {
         public string Name;
