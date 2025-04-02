@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: Key
   m_EditorClassIdentifier: 
   UniqueId: 6ec7c756-591a-43d3-af20-0addec637fac
-  Image: {fileID: 21300000, guid: 7287f58a855a8f341be10ebb9a9abd4d, type: 3}
-  ExamineModel: {fileID: 3231717572638813147, guid: dc0ba9a5f2fa7084a8cc3510fbd5ecec, type: 3}
-  Name: Spade Key
-  Description: It opens doors with a spade engraving
+  Image: {fileID: 21300000, guid: 7c7d87ef71f96214e9b7f94e14acee74, type: 3}
+  ExamineModel: {fileID: 7511890082211063387, guid: 5a1f5c1beaf430f4d95a9c41e14b67ca, type: 3}
+  Name: Consult key
+  Description: It has a tag. It reads  "Consulting room".
   InventoryAction: 1
   Flags: 240
   DropPrefab: {fileID: 0}
