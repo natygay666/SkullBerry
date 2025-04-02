@@ -48,10 +48,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -3542582810226822735, guid: d9cd54a14669a184a97e1f80b30b8ff2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4b4e4caef2f4d7d49a18af71ff739da1, type: 2}
     - target: {fileID: 919132149155446097, guid: d9cd54a14669a184a97e1f80b30b8ff2, type: 3}
       propertyPath: m_Name
       value: Pizarron
       objectReference: {fileID: 0}
+    - target: {fileID: 4843300941408526546, guid: d9cd54a14669a184a97e1f80b30b8ff2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0b6aaeed1643afd4a930f0271682a3be, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

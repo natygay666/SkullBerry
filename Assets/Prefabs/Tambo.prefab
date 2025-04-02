@@ -48,10 +48,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7690859702886907879, guid: 1034f5e75f183f14c92237ada5cd783f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e35326002ed98864781400f1f4b43801, type: 2}
     - target: {fileID: 919132149155446097, guid: 1034f5e75f183f14c92237ada5cd783f, type: 3}
       propertyPath: m_Name
       value: Tambo
       objectReference: {fileID: 0}
+    - target: {fileID: 3829958164664157851, guid: 1034f5e75f183f14c92237ada5cd783f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e35326002ed98864781400f1f4b43801, type: 2}
+    - target: {fileID: 6010971564852321785, guid: 1034f5e75f183f14c92237ada5cd783f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e35326002ed98864781400f1f4b43801, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

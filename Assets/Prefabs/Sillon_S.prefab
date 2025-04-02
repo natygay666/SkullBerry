@@ -52,6 +52,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sillon_S
       objectReference: {fileID: 0}
+    - target: {fileID: 3741431621553643204, guid: 4a39bfd7fdca27d40b635979dc45505d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ca646fdd35f02934fba52d3be5104853, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

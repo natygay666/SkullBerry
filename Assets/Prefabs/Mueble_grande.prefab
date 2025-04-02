@@ -48,10 +48,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -4889733054353731312, guid: ed675a2dbda4b7b4a859ac51c65c8010, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ae783535c1f12154e932e3d2d1af38c2, type: 2}
+    - target: {fileID: -1390728930517011491, guid: ed675a2dbda4b7b4a859ac51c65c8010, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b758dd6b2ed50164dbbe2001fea659de, type: 2}
     - target: {fileID: 919132149155446097, guid: ed675a2dbda4b7b4a859ac51c65c8010, type: 3}
       propertyPath: m_Name
       value: Mueble_grande
       objectReference: {fileID: 0}
+    - target: {fileID: 6330372291483472810, guid: ed675a2dbda4b7b4a859ac51c65c8010, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b758dd6b2ed50164dbbe2001fea659de, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
