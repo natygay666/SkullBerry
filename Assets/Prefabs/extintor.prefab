@@ -53,7 +53,9 @@ PrefabInstance:
       value: extintor
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -8700617353114198275, guid: b00c96db66e29404fb1e57f615b559b6, type: 3}
+    - {fileID: 65702495048144492, guid: b00c96db66e29404fb1e57f615b559b6, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b00c96db66e29404fb1e57f615b559b6, type: 3}
