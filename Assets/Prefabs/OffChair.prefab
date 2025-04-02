@@ -48,6 +48,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -2650732049508947145, guid: 2d7fe5d56da196f4784713c3976d1813, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8f7547c648a75b448a507c46f0b7a7ff, type: 2}
     - target: {fileID: 919132149155446097, guid: 2d7fe5d56da196f4784713c3976d1813, type: 3}
       propertyPath: m_Name
       value: OffChair

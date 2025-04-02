@@ -44,7 +44,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 3f07b565475802c4d8370ecd1f1a1ee1, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.52
   m_Pitch: 0.46
   Loop: 1
   Mute: 0
@@ -138,7 +138,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 330577810846004576, guid: 635a1b658ad7078458e7f56291a1b6cc, type: 3}
       propertyPath: m_Name
-      value: FocoDefectuoso Variant 1
+      value: (Ruido)FocoDefectuoso
       objectReference: {fileID: 0}
     - target: {fileID: 1143248451751538650, guid: 635a1b658ad7078458e7f56291a1b6cc, type: 3}
       propertyPath: m_LocalPosition.x
@@ -179,6 +179,10 @@ PrefabInstance:
     - target: {fileID: 1143248451751538650, guid: 635a1b658ad7078458e7f56291a1b6cc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2281227909169172037, guid: 635a1b658ad7078458e7f56291a1b6cc, type: 3}
+      propertyPath: m_Intensity
+      value: 0.8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
